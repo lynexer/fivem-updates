@@ -1,1 +1,1 @@
-{"startup":"Testing Startup","version":"0.0.1","supported":[{"name":"fwd-base"},{"name":"fwd-ltl"}]}
+{"startup":"^4\\-----------------------------------\\ \n ^4\\       FIVEM WEAPON DYNAMICS       \\ \n  ^4\\-----------------------------------\\ \n","version":"0.0.1","supported":[{"name":"fwd-ltl"}]}
